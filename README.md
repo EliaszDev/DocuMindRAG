@@ -1,6 +1,6 @@
 # DocuMind RAG
 
-A minimal, production-ready **Retrieval-Augmented Generation (RAG)** pipeline built with **LangChain + ChromaDB** — designed for technical interview portfolios.
+**Retrieval-Augmented Generation (RAG)** pipeline built with **LangChain + ChromaDB** 
 
 ---
 
