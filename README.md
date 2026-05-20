@@ -154,14 +154,6 @@ print(answer)
 pipeline.reset()
 ```
 
----
-
-## Interview Talking Points
-
-1. **Why ChromaDB?** Zero-config, persistent, runs locally. Ideal for demos and prototypes.
-2. **Why local embeddings?** `all-MiniLM-L6-v2` is 22 MB, fast on CPU, and competitive on MTEB benchmarks.
-3. **Why LCEL?** Declarative composition, streaming support, and easy observability.
-4. **Extensibility** Swap Ollama for OpenRouter / GPT-4 by changing one line in `.env`.
 
 ---
 
